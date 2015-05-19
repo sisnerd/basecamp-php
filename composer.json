@@ -1,14 +1,11 @@
 {
-    "name": "netvlies/basecamp-php",
+    "name": "sisnerd/basecamp-php",
     "description": "The Basecamp API makes it easy for developers to communicate with the 37signals Basecamp platform",
     "type": "library",
     "keywords": ["basecamp", "37signals", "api"],
     "license": "MIT",
     "require": {
-        "guzzle/guzzle": "~3.3"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "3.7.*"
+        "guzzle/guzzle": "~4"
     },
     "authors": [
         {
