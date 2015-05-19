@@ -5,7 +5,7 @@
     "keywords": ["basecamp", "37signals", "api"],
     "license": "MIT",
     "require": {
-        "guzzle/guzzle": "~4"
+        "guzzle/guzzle": "4.*"
     },
     "authors": [
         {
